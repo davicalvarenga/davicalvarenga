@@ -1,12 +1,12 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Davi Coelho de Alvarenga !
+## 👩‍💻 My name is Davi Coelho de Alvarenga !
 
 - 🔭 I'm currently working as an Administrative Assistant
 - 🌱 I'm currently learning Web Development with JS
 - 👯 I'm looking to collaborate on projects that can boost my career and make me a good programmer
 - 🤔 I'm looking for some help with development ideas and advices
 
-## Tools and Technologies
+## 🛠 Language and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> 
 
 ## Contacts:
@@ -16,6 +16,8 @@
 <a href = "davialvarenga434@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/davicalvarenga/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+## 🔥   My Stats 
 
 <div>
   <a href="https://github.com/davicalvarenga">
