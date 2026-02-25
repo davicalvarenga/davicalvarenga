@@ -1,8 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
 ## 👩‍💻 My name is Davi Coelho de Alvarenga !
 
-- 🔭 I'm currently working at Tribunal de Contas do Estado de Goiás.
-- 🌱 I'm currently learning Web Development with JS
+- 🔭 I'm currently working at NetSuprema.
+- 🌱 I'm currently learning N8N and Cybersecurity.
 - 👯 I'm looking to collaborate on projects that can boost my career and make me a good programmer
 - 🤔 I'm looking for some help with development ideas and advices
 
