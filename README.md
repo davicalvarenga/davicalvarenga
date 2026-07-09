@@ -1,5 +1,3 @@
-# 👋 Hello! Welcome to my GitHub profile
-
 ## 👨‍💻 My name is Davi Coelho de Alvarenga
 
 * 🔭 I'm currently working at NetSuprema.
