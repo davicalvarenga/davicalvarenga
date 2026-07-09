@@ -31,14 +31,14 @@
 
 ## 🔥 My Stats
 
-<div>
+<p align="center">
   <a href="https://github.com/davicalvarenga">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=davicalvarenga&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
+    <img width="38%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=davicalvarenga&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
   </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/davicalvarenga">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=davicalvarenga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img width="48%" src="https://github-stats-extended.vercel.app/api?username=davicalvarenga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
-</div>
+</p>
