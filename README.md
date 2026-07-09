@@ -1,31 +1,41 @@
-# 👋 Hello! Welcome to my Github profile.
-## 👩‍💻 My name is Davi Coelho de Alvarenga !
+# 👋 Hello! Welcome to my GitHub profile
 
-- 🔭 I'm currently working at NetSuprema.
-- 🌱 I'm currently learning N8N and Cybersecurity.
-- 👯 I'm looking to collaborate on projects that can boost my career and make me a good programmer
-- 🤔 I'm looking for some help with development ideas and advices
+## 👨‍💻 My name is Davi Coelho de Alvarenga
 
-## 🛠 Language and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
-          
-          
-          
-          
+* 🔭 I'm currently working at NetSuprema.
+* 🌱 I'm currently learning n8n and Cybersecurity.
+* 👯 I'm looking to collaborate on projects that can boost my career and help me become a better programmer.
+* 🤔 I'm looking for help with development ideas and advice.
 
-## Contacts:
+## 🛠 Languages and Tools
 
 <div>
-<a href = "davialvarenga434@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/davicalvarenga/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" />
 </div>
 
-## 🔥   My Stats 
+## 📫 Contacts
 
 <div>
-  <a href="https://github.com/davicalvarenga">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicalvarenga&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=davicalvarenga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="mailto:davialvarenga434@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/davicalvarenga/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
+## 🔥 My Stats
+
+<div>
+  <a href="https://github.com/davicalvarenga">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicalvarenga&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/davicalvarenga">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davicalvarenga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</div>
