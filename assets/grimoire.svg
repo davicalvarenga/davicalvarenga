@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="452" height="390" viewBox="0 0 452 390">
+<style>text{font-family:'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace;}</style>
+<rect x="1" y="1" width="450" height="388" rx="10" fill="#0a0a0a" stroke="#27272a" stroke-width="1.5"/>
+<circle cx="24" cy="20" r="5.5" fill="#3f3f46"/><circle cx="42" cy="20" r="5.5" fill="#52525b"/><circle cx="60" cy="20" r="5.5" fill="#71717a"/>
+<text x="226" y="24" text-anchor="middle" fill="#71717a" font-size="11" letter-spacing="3">SYSTEM_STATS.LOG</text>
+<line x1="1" y1="38" x2="451" y2="38" stroke="#27272a"/>
+
+<text x="26" y="66" fill="#d4d4d8" font-size="12">C</text>
+<text x="426" y="66" text-anchor="end" fill="#f4f4f5" font-size="12">32%</text>
+<rect x="26" y="74" width="400" height="8" rx="4" fill="#18181b"/>
+<rect x="26" y="74" width="128" height="8" rx="4" fill="#8dc63f"/>
+
+<text x="26" y="104" fill="#d4d4d8" font-size="12">TypeScript</text>
+<text x="426" y="104" text-anchor="end" fill="#f4f4f5" font-size="12">21%</text>
+<rect x="26" y="112" width="400" height="8" rx="4" fill="#18181b"/>
+<rect x="26" y="112" width="84" height="8" rx="4" fill="#8dc63f"/>
+
+<text x="26" y="142" fill="#d4d4d8" font-size="12">Java</text>
+<text x="426" y="142" text-anchor="end" fill="#f4f4f5" font-size="12">15%</text>
+<rect x="26" y="150" width="400" height="8" rx="4" fill="#18181b"/>
+<rect x="26" y="150" width="60" height="8" rx="4" fill="#71717a"/>
+
+<text x="26" y="180" fill="#d4d4d8" font-size="12">JavaScript</text>
+<text x="426" y="180" text-anchor="end" fill="#f4f4f5" font-size="12">14%</text>
+<rect x="26" y="188" width="400" height="8" rx="4" fill="#18181b"/>
+<rect x="26" y="188" width="56" height="8" rx="4" fill="#71717a"/>
+
+<text x="26" y="218" fill="#d4d4d8" font-size="12">HTML · CSS</text>
+<text x="426" y="218" text-anchor="end" fill="#f4f4f5" font-size="12">12%</text>
+<rect x="26" y="226" width="400" height="8" rx="4" fill="#18181b"/>
+<rect x="26" y="226" width="48" height="8" rx="4" fill="#52525b"/>
+
+<text x="26" y="256" fill="#d4d4d8" font-size="12">C++</text>
+<text x="426" y="256" text-anchor="end" fill="#f4f4f5" font-size="12">3%</text>
+<rect x="26" y="264" width="400" height="8" rx="4" fill="#18181b"/>
+<rect x="26" y="264" width="12" height="8" rx="4" fill="#3f3f46"/>
+
+<text x="26" y="294" fill="#d4d4d8" font-size="12">SQL</text>
+<text x="426" y="294" text-anchor="end" fill="#f4f4f5" font-size="12">3%</text>
+<rect x="26" y="302" width="400" height="8" rx="4" fill="#18181b"/>
+<rect x="26" y="302" width="12" height="8" rx="4" fill="#3f3f46"/>
+
+<line x1="26" y1="330" x2="426" y2="330" stroke="#27272a"/>
+<text x="118" y="354" text-anchor="middle" fill="#71717a" font-size="11" letter-spacing="2">REPOS</text>
+<text x="118" y="380" text-anchor="middle" fill="#e4e4e7" font-size="20" font-weight="bold">13</text>
+<line x1="226" y1="342" x2="226" y2="382" stroke="#27272a"/>
+<text x="334" y="354" text-anchor="middle" fill="#71717a" font-size="11" letter-spacing="2">CERTS</text>
+<text x="334" y="380" text-anchor="middle" fill="#e4e4e7" font-size="20" font-weight="bold">07</text>
+</svg>

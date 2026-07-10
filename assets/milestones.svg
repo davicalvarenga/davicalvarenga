@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="342" viewBox="0 0 920 342">
+<style>text{font-family:'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace;}.blink{animation:bl 1.2s steps(1) infinite;}@keyframes bl{50%{opacity:0;}}</style>
+<rect x="1" y="1" width="918" height="340" rx="10" fill="#0a0a0a" stroke="#27272a" stroke-width="1.5"/>
+<circle cx="26" cy="20" r="5.5" fill="#3f3f46"/><circle cx="46" cy="20" r="5.5" fill="#52525b"/><circle cx="66" cy="20" r="5.5" fill="#71717a"/>
+<text x="460" y="24" text-anchor="middle" fill="#71717a" font-size="11" letter-spacing="3">/VAR/LOG/MILESTONES.LOG</text>
+<line x1="1" y1="38" x2="919" y2="38" stroke="#27272a"/>
+<text x="24" y="66" fill="#52525b" font-size="13">$ cat /var/log/milestones.log</text>
+
+<text x="24" y="100" fill="#52525b" font-size="13">[2026-07]</text>
+<line x1="140" y1="84" x2="140" y2="118" stroke="#27272a"/>
+<text x="156" y="96" fill="#8dc63f" font-size="13" font-weight="bold">SIDE_QUEST: ai-job-search (fork open-source)</text>
+<text x="156" y="113" fill="#71717a" font-size="12">Framework de busca de emprego com IA sobre o Claude Code — fork localizado para o público BR.</text>
+
+<text x="24" y="144" fill="#52525b" font-size="13">[2026-05]</text>
+<line x1="140" y1="128" x2="140" y2="162" stroke="#27272a"/>
+<text x="156" y="140" fill="#d4d4d8" font-size="13" font-weight="bold">DEPLOY_SUCCESS: Automações n8n</text>
+<text x="156" y="157" fill="#71717a" font-size="12">GLPI + Rocket.Chat / Nextcloud — chamados, chat e nuvem integrados. 0 erros fatais.</text>
+
+<text x="24" y="188" fill="#52525b" font-size="13">[2026-01]</text>
+<line x1="140" y1="172" x2="140" y2="206" stroke="#27272a"/>
+<text x="156" y="184" fill="#d4d4d8" font-size="13" font-weight="bold">PROCESS_STARTED: NetSupre</text>
+<text x="156" y="201" fill="#71717a" font-size="12">Estágio de suporte e redes. Monitoramento, incidentes e SLA — serviço em execução.</text>
+
+<text x="24" y="232" fill="#52525b" font-size="13">[2025]</text>
+<line x1="140" y1="216" x2="140" y2="250" stroke="#27272a"/>
+<text x="156" y="228" fill="#d4d4d8" font-size="13" font-weight="bold">CERT_ACQUIRED: 07 certificados</text>
+<text x="156" y="245" fill="#71717a" font-size="12">C · Git · Redes (Alura) — AZ-204 (DIO) — Segurança Cibernética (Sicoob).</text>
+
+<text x="24" y="276" fill="#52525b" font-size="13">[2024-02]</text>
+<line x1="140" y1="260" x2="140" y2="294" stroke="#27272a"/>
+<text x="156" y="272" fill="#d4d4d8" font-size="13" font-weight="bold">INIT_SEQUENCE: BSc Ciência da Computação</text>
+<text x="156" y="289" fill="#71717a" font-size="12">PUC Goiás (2024 → 2029). Core modules loaded.</text>
+
+<text x="24" y="322" fill="#a1a1aa" font-size="13">~/logs $</text>
+<rect x="100" y="310" width="9" height="15" fill="#d4d4d8" class="blink"/>
+</svg>
