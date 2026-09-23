@@ -19,7 +19,7 @@
 
 <!-- ── atividade real do GitHub ── -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davicalvarenga&bg_color=0a0a0a&color=71717a&line=8dc63f&point=e4e4e7&area=true&area_color=18220f&hide_border=true" width="97%" alt="gráfico de atividade" />
+<img src="https://raw.githubusercontent.com/davicalvarenga/davicalvarenga/output/snake-dark.svg" width="97%" alt="gráfico de contribuições" />
 
 <br/><br/>
 
