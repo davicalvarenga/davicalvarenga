@@ -5,40 +5,30 @@
 <text x="226" y="24" text-anchor="middle" fill="#71717a" font-size="11" letter-spacing="3">SYSTEM_STATS.LOG</text>
 <line x1="1" y1="38" x2="451" y2="38" stroke="#27272a"/>
 
-<text x="26" y="66" fill="#d4d4d8" font-size="12">C</text>
-<text x="426" y="66" text-anchor="end" fill="#f4f4f5" font-size="12">32%</text>
+<text x="26" y="66" fill="#d4d4d8" font-size="12">TypeScript</text>
+<text x="426" y="66" text-anchor="end" fill="#f4f4f5" font-size="12">62%</text>
 <rect x="26" y="74" width="400" height="8" rx="4" fill="#18181b"/>
-<rect x="26" y="74" width="128" height="8" rx="4" fill="#8dc63f"/>
+<rect x="26" y="74" width="248" height="8" rx="4" fill="#8dc63f"/>
 
-<text x="26" y="104" fill="#d4d4d8" font-size="12">TypeScript</text>
-<text x="426" y="104" text-anchor="end" fill="#f4f4f5" font-size="12">21%</text>
-<rect x="26" y="112" width="400" height="8" rx="4" fill="#18181b"/>
-<rect x="26" y="112" width="84" height="8" rx="4" fill="#8dc63f"/>
+<text x="26" y="123" fill="#d4d4d8" font-size="12">JavaScript</text>
+<text x="426" y="123" text-anchor="end" fill="#f4f4f5" font-size="12">19%</text>
+<rect x="26" y="131" width="400" height="8" rx="4" fill="#18181b"/>
+<rect x="26" y="131" width="76" height="8" rx="4" fill="#8dc63f"/>
 
-<text x="26" y="142" fill="#d4d4d8" font-size="12">Java</text>
-<text x="426" y="142" text-anchor="end" fill="#f4f4f5" font-size="12">15%</text>
-<rect x="26" y="150" width="400" height="8" rx="4" fill="#18181b"/>
-<rect x="26" y="150" width="60" height="8" rx="4" fill="#71717a"/>
-
-<text x="26" y="180" fill="#d4d4d8" font-size="12">JavaScript</text>
-<text x="426" y="180" text-anchor="end" fill="#f4f4f5" font-size="12">14%</text>
+<text x="26" y="180" fill="#d4d4d8" font-size="12">C</text>
+<text x="426" y="180" text-anchor="end" fill="#f4f4f5" font-size="12">11%</text>
 <rect x="26" y="188" width="400" height="8" rx="4" fill="#18181b"/>
-<rect x="26" y="188" width="56" height="8" rx="4" fill="#71717a"/>
+<rect x="26" y="188" width="44" height="8" rx="4" fill="#71717a"/>
 
-<text x="26" y="218" fill="#d4d4d8" font-size="12">HTML · CSS</text>
-<text x="426" y="218" text-anchor="end" fill="#f4f4f5" font-size="12">12%</text>
-<rect x="26" y="226" width="400" height="8" rx="4" fill="#18181b"/>
-<rect x="26" y="226" width="48" height="8" rx="4" fill="#52525b"/>
+<text x="26" y="237" fill="#d4d4d8" font-size="12">CSS</text>
+<text x="426" y="237" text-anchor="end" fill="#f4f4f5" font-size="12">6%</text>
+<rect x="26" y="245" width="400" height="8" rx="4" fill="#18181b"/>
+<rect x="26" y="245" width="24" height="8" rx="4" fill="#52525b"/>
 
-<text x="26" y="256" fill="#d4d4d8" font-size="12">C++</text>
-<text x="426" y="256" text-anchor="end" fill="#f4f4f5" font-size="12">3%</text>
-<rect x="26" y="264" width="400" height="8" rx="4" fill="#18181b"/>
-<rect x="26" y="264" width="12" height="8" rx="4" fill="#3f3f46"/>
-
-<text x="26" y="294" fill="#d4d4d8" font-size="12">SQL</text>
-<text x="426" y="294" text-anchor="end" fill="#f4f4f5" font-size="12">3%</text>
+<text x="26" y="294" fill="#d4d4d8" font-size="12">HTML</text>
+<text x="426" y="294" text-anchor="end" fill="#f4f4f5" font-size="12">2%</text>
 <rect x="26" y="302" width="400" height="8" rx="4" fill="#18181b"/>
-<rect x="26" y="302" width="12" height="8" rx="4" fill="#3f3f46"/>
+<rect x="26" y="302" width="8" height="8" rx="4" fill="#3f3f46"/>
 
 <line x1="26" y1="330" x2="426" y2="330" stroke="#27272a"/>
 <text x="118" y="354" text-anchor="middle" fill="#71717a" font-size="11" letter-spacing="2">REPOS</text>
