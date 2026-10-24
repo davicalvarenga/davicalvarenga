@@ -27,10 +27,10 @@
 <text x="87" y="224" text-anchor="middle" fill="#8dc63f" font-size="12">&gt; SQL</text>
 
 <rect x="163" y="196" width="126" height="46" rx="6" fill="#0a0a0a" stroke="#27272a"/>
-<text x="226" y="224" text-anchor="middle" fill="#a1a1aa" font-size="12">&gt; Redes</text>
+<text x="226" y="224" text-anchor="middle" fill="#a1a1aa" font-size="12">&gt; Networking</text>
 
 <rect x="302" y="196" width="126" height="46" rx="6" fill="#0a0a0a" stroke="#27272a"/>
-<text x="365" y="224" text-anchor="middle" fill="#8dc63f" font-size="12">&gt; Ciber</text>
+<text x="365" y="224" text-anchor="middle" fill="#8dc63f" font-size="12">&gt; Cybersec</text>
 
 <rect x="24" y="250" width="126" height="46" rx="6" fill="#0a0a0a" stroke="#27272a"/>
 <text x="87" y="278" text-anchor="middle" fill="#a1a1aa" font-size="12">&gt; Node.js</text>
@@ -43,5 +43,5 @@
 
 <line x1="24" y1="314" x2="428" y2="314" stroke="#27272a"/>
 <text x="24" y="336" fill="#52525b" font-size="11">12 directories, ∞ possibilities</text>
-<text x="24" y="351" fill="#3f3f46" font-size="9">inclui código próprio, forks e contribuições externas</text>
+<text x="24" y="351" fill="#3f3f46" font-size="9">includes own code, forks and external contributions</text>
 </svg>
