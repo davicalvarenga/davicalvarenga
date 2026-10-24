@@ -13,6 +13,13 @@
 <img src="https://img.shields.io/badge/hey-wheres_perry%3F-0a0a0a?style=flat-square&labelColor=18181b&color=27272a" alt="hey, where's perry?" />
 </p>
 
+<h3>Featured projects</h3>
+<p>
+<a href="https://github.com/davicalvarenga/Graphs-Code"><b>Graphs-Code</b></a>: step-by-step C graph visualizer (Next.js, TypeScript, 80% test coverage in CI) · <a href="https://graphs-code.vercel.app">live</a><br/>
+<a href="https://github.com/davicalvarenga/Automacao-glpi-nextcloud-n8n"><b>GLPI ticket digest</b></a>: n8n + GLPI REST API daily summaries via Nextcloud Talk and <a href="https://github.com/davicalvarenga/GLPI-Rocket.Chat-via-n8n">Rocket.Chat</a><br/>
+<a href="https://github.com/davicalvarenga/ai-job-search"><b>ai-job-search</b></a>: job application framework adapted for Brazil (Claude Code, LaTeX)
+</p>
+
 <p>
 <img src="./assets/arsenal.svg" width="49%" alt="tecnologias" /><img src="./assets/grimoire.svg" width="49%" alt="estatísticas" />
 </p>
